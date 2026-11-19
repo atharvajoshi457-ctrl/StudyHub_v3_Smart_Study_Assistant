@@ -1,0 +1,2743 @@
+{
+  "topics": {
+    "PS": [
+      {
+        "unit": "Unit I",
+        "name": "Introduction to basic statistics",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Mean and median",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Standard deviation and examples",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Dispersion and coefficient of variation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Moments",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Skewness and kurtosis",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Introduction to random variables",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Discrete random variables and examples",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Continuous random variables and distribution functions",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Cumulative distribution function (CDF)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Mathematical expectation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Variance and standard deviation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Joint distribution and joint density function",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Rank correlation for distinct ranks",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Rank correlation for repeated ranks",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Coefficient of correlation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Linear regression",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Method of least squares: fit a straight line",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Fitting an exponential curve",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Fitting a parabolic curve",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Basic probability and conditional probability",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Independent events",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Bayes' theorem and examples",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Binomial distribution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Poisson distribution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Normal distribution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Geometric distribution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Exponential distribution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Population, sample and sampling",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Estimation of parameters and standard error",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Statistical hypothesis and testing a hypothesis",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "One-tailed and two-tailed tests; Type I and Type II errors",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Level of significance",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Student's t-test and problems",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Chi-square goodness-of-fit test",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Chi-square test of independence",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "F-test",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ],
+    "CNM": [
+      {
+        "unit": "Unit I / Differential equations",
+        "name": "Linear differential equations",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I / Differential equations",
+        "name": "Auxiliary equation and complementary function",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I / Differential equations",
+        "name": "Particular integral (PI)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I / Differential equations",
+        "name": "Differential equations: practice problems",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II / PDE and transforms",
+        "name": "Formation/solution of PDE (verify exact topic from notes)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II / PDE and transforms",
+        "name": "Lagrange's method",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II / PDE and transforms",
+        "name": "Laplace transforms",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II / PDE and transforms",
+        "name": "Inverse Laplace transforms",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II / PDE and transforms",
+        "name": "Applications of Laplace transforms",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III / Applications",
+        "name": "Applications: Fourier shift",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III / Applications",
+        "name": "Second shift theorem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III / Applications",
+        "name": "Direct delta / impulse function (verify wording from notes)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Difference tables",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Forward and backward differences",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Newton forward interpolation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Newton backward interpolation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Lagrange interpolation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Numerical integration: trapezoidal rule",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Simpson's 1/3 rule",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Simpson's 3/8 rule",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Numerical solution methods: Euler's method",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Runge-Kutta order 2",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV / Numerical methods",
+        "name": "Runge-Kutta order 4",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ],
+    "IAM": [
+      {
+        "unit": "Unit I",
+        "name": "Identity, entitlement, provisioning and de-provisioning",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "IAM lifecycle and consequences of weak identity management",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Authentication factors and multi-factor authentication",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Physical/logical access, segregation of duties and IAAA",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "IAM framework and principle of least privilege",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Identification proofing, biometrics, RFID and data visibility",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Assets, perimeter security and Consumer IAM",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Access control models: MAC, DAC and RBAC",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Access matrix model",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "RBAC flow, hierarchy and separation of duty",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "RBAC consistency properties",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Schematic protection model and SPM rules",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Privileged access management and access-control attacks",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "BLP and BIBA models; information-flow comparison",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Chinese wall problem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Take-grant protection model and safety problem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "IAM governance and stakeholders",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Self-service and automation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Organizational processes and approval",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Culture and awareness",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Centralized vs decentralized approaches",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Federated identity management",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Single Sign-On (SSO)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "IAM guidance, standards, policy vs procedure",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Cloud services and cloud service models",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Cloud IAM use cases and requirements",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "MFA concepts and implementation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "IAM implementation and password options",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Cloud considerations",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Firebase Backend-as-a-Service",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Kerberos",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "TACACS/TACACS+ and DIAMETER",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "RADIUS",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "SAML, OAuth and OpenID comparison",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Trust paradigms and attribute certificates",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "IAM case studies in retail/banking",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "OSI model, SSL and TLS",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "XACML components",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Active Directory and LDAP",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "PKI and trust establishment",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Commercial IAM tools and current issues",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ],
+    "ICS": [
+      {
+        "unit": "Unit I",
+        "name": "Information security fundamentals and security attacks",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Cryptography, cryptanalysis and network security model",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Substitution/transposition: Caesar, Playfair and Rail Fence",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "One-time pad and steganography",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Block vs stream ciphers and modes",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "DES and AES",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "RC5 and Blowfish",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Prime numbers and modular arithmetic",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Euclidean algorithm",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "RSA algorithm and numerical problems",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Public-key cryptography",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Chinese remainder theorem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Fermat and Euler theorems",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Miller-Rabin primality test",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Discrete logarithm",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Elliptic-curve cryptography (ECC)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Homomorphic encryption",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Diffie-Hellman key exchange",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Message authentication and digital signatures",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "MD5 and SHA secure hash functions",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Symmetric key distribution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Kerberos security",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Password, two-way and biometric authentication",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "X.509 certificates and PKI",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Distribution of public keys",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Network security fundamentals and layer-wise concerns",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Packet-filtering, stateless and stateful firewalls",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Social engineering, cyberstalking and ransomware",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Cybercrime types, criminals, tools and legal perspectives",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "IPSec security",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Email security: PGP and S/MIME",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Wireless security",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Host-based vs network-based IDS",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "SSL security",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Proxy servers, anonymizers and phishing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Password cracking tools, keyloggers and spyware",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Cybersecurity safeguards and access control/audit/authentication",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Indian cyber laws and IT Act",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "ISO 27000 and NIST security models",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Man-in-the-middle attacks and covert channels",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "SQL injection",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "DoS/DDoS, viruses, worms, trapdoors and salami attack",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Real-world cyber incident case studies",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ],
+    "AIMLT": [
+      {
+        "unit": "Unit I",
+        "name": "AI definition, techniques and applications",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "State-space problem formulation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "BFS and DFS",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Best-first search and A* algorithm",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Hill climbing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Minimax algorithm",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Production systems",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Knowledge representation issues and approaches",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Predicate logic and representing facts",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Forward and backward reasoning",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Non-monotonic reasoning",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Symbolic reasoning under uncertainty",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Expert systems",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Ontology and knowledge graphs",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Logic programming",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Procedural vs declarative knowledge",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Computable functions and predicates",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Probability and Bayes theorem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Bayesian networks and Markov networks",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Certainty factors",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Fuzzy logic and applications",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Types of ML: supervised, unsupervised, semi-supervised and reinforcement",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Regression vs classification",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Learning from data",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Anomaly detection/security analytics",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Malware detection",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Single-variable linear regression",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Multivariable regression",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Cost function and gradient descent",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Normal equation and non-invertibility",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Logistic regression and decision boundary",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Decision tree classifier",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Support vector machines",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Overfitting and regularization",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Multiclass classification: one-vs-all",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Advanced optimization",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Biological neurons and model representation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Neural-network intuition",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Weight initialization and training",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Backpropagation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Convolutional neural networks (CNNs)",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "RNNs and LSTMs",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Reinforcement learning",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "K-means and optimization objective",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Multiclass cost function",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Unsupervised clustering types",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ],
+    "DAA": [
+      {
+        "unit": "Unit I",
+        "name": "Linear/sequential search and binary search",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Algorithm efficiency framework",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Big-O, Big-Theta and Big-Omega",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Non-recursive algorithm analysis",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Recursive algorithm analysis",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Master theorem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Recurrence solving by substitution",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Divide-and-conquer principle and control abstraction",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Quick sort and dry runs",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Merge sort and dry runs",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Strassen matrix multiplication",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Greedy strategy",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Knapsack problem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Job sequencing with deadlines",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Huffman encoding",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Dynamic programming and principle of optimality",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Graph terminology and representations",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Topological sorting",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Dijkstra shortest path",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Prim and Kruskal MST algorithms",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "0/1 knapsack",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "AVL trees and symbol tables",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Optimal binary search tree",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Travelling salesperson problem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Longest common subsequence",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Multistage graph",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Recursive and iterative backtracking",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "8-Queens problem",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Hamiltonian cycle",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Branch and bound",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "FIFO branch and bound",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Least-cost branch and bound",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "0/1 knapsack using branch and bound",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Hash tables and hash functions",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Good hash function properties",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Division, multiplication, extraction, mid-square, folding and universal hashing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Collisions, probes, synonyms and overflow",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Open addressing and chaining",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Load factor, load density, rehashing and perfect hashing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "Computational complexity",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit V",
+        "name": "NP, NP-complete and NP-hard",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ],
+    "SEPM": [
+      {
+        "unit": "Unit I",
+        "name": "Importance of software engineering and process",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Software myths",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Waterfall and prototype models",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Spiral and Agile models",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Iterative development and RUP",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Process vs project",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "User/system requirements and SRS",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Functional vs non-functional requirements",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Requirements traceability, prioritization and management",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit I",
+        "name": "Security requirements engineering",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "OOAD and UML overview",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Use-case and activity diagrams",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Class and object diagrams",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Sequence, communication and timing diagrams",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "State-machine and interaction-overview diagrams",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Component, deployment, package and composite-structure diagrams",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "ER diagrams and data-flow diagrams",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Abstraction and modularity",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Cohesion and coupling",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit II",
+        "name": "Design patterns and SOA/microservices",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Project management principles and metrics",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Function point analysis and LOC",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Make/buy decision and COCOMO II",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "DevOps toolchain and continuous delivery",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Agile manifesto, practices and Extreme Programming",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "JIRA/Trello and Scrum",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Team building and risk management",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "Project planning, SWOT and manager functions",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit III",
+        "name": "IoT, data science, cloud, cybersecurity and AI-assisted development",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Software testing concepts and principles",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Verification vs validation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "V-model",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Unit, integration, system and acceptance testing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Alpha vs beta testing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "White-box vs black-box testing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Basis path and equivalence testing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Graph-based testing and test cases",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Test plan and defect management",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Performance and security testing",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Selenium/JUnit automation",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      },
+      {
+        "unit": "Unit IV",
+        "name": "Penetration testing, fuzzing and static analysis",
+        "status": "Not started",
+        "confidence": 0,
+        "notes": "",
+        "last": "",
+        "next_review": "",
+        "stage": 0
+      }
+    ]
+  },
+  "log": [],
+  "cards": [],
+  "settings": {
+    "reminders": true
+  }
+}
